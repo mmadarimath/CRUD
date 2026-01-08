@@ -1,4 +1,4 @@
-# 📝 React Todo App (Production Style)
+# 📝 React Todo App
 
 A fully functional **React Todo application** built with a **clean mental model, proper component architecture, and real-world patterns**.
 
